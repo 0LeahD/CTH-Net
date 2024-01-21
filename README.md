@@ -7,3 +7,8 @@
 ## Experiments
 * CUDA/CUDNN
 * torch >=1.7.0
+## Reference
+Some of the codes in this repo are borrowed from:
+* https://github.com/Rayicer/TransFuse
+* https://github.com/JunMa11/SegLossOdyssey
+* https://github.com/duweidai/Ms-RED
