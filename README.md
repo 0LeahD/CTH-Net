@@ -1,5 +1,5 @@
 # CTH-Net
-🚧 The project code is still being updated and maintained, please be patient.
+
 ## Datasets
 1. ISIC 2016 : https://challenge.isic-archive.com/data/#2016
 2. ISIC 2017 : https://challenge.isic-archive.com/data/#2017
